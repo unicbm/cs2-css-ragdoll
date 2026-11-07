@@ -1,0 +1,17 @@
+{
+  "offsets": {
+    "hitboxPawnSceneNode": "0x270",
+    "hitboxSkeletonVtable": "0x68",
+    "hitboxA": "0x18",
+    "hitboxB": "0x24",
+    "hitboxRadius": "0x30",
+    "hitboxGroup": "0x38",
+    "hitboxShape": "0x3c",
+    "hitboxIndex": "0x48"
+  },
+  "hitboxList": {
+    "rva": "0xcacd40",
+    "expected": "48895C242057415641574883EC50488BF9418BD9488B89C0"
+  },
+  "serverSha256": "70C66E850B2CE72C8C7CA026DE6989EF4DE7F12DAD64EC503645FBD2A7F06D9F"
+}
